@@ -1,4 +1,4 @@
-# Project 14-Optical_Character_Recognition System
+# Project 14 - Optical Character Recognition System
 
 In this project, the proposed challenge involves the recognition and extraction of text from images, along with the application of functions to enhance and achieve more accurate results.
 
