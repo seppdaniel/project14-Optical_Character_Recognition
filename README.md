@@ -6,7 +6,7 @@ In this project, the proposed challenge involves the recognition and extraction 
 - Programming Language: Python 3.11.4
 - IDE: Visual Studio Code (VS Code)
 
-⚙️ Used Libraries:
+⚙ Used Libraries:
 - PIL (Python Imaging Library - Pillow): Used for image manipulation in Python.
 It was used to load, resize, and save images. In the developed code, it is used to open the 'pbIdS.png' image, resize it, and save it as 'sample.png'.
 
